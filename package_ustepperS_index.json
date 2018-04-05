@@ -1,0 +1,36 @@
+{
+   "packages":[
+      {
+         "name": "uStepper",
+         "maintainer": "Andre Moehl",		  
+         "websiteURL": "",
+         "email": "arduino@ib-moehl.de",
+		 "help": {
+        	"online": ""
+	   },
+     	"platforms":
+		[
+			 {
+	           "name": "uStepper",
+	           "architecture": "avr",
+	           "version": "1.0.0",
+	           "category": "uStepper",
+	           "url": "https://github.com/amoehl/uino-atmega328pb/raw/master/uStepper_hardware.zip",
+			   "checksum": "SHA-256:f4114af8642cd072f30f751d063aebdd1b64c47d8ce0f9ddb263e240b0596ceb",
+	           "archiveFileName": "uStepper_hardware.zip",
+	           "size": "158228", 
+	           "boards":
+				[
+	              { "name": "uStepperS" }
+	           	],
+	           "toolsDependencies":
+				[				
+				]
+	        }
+	     ],      	
+		 "tools":
+		  [		
+		  ]
+		}
+	]  
+}
